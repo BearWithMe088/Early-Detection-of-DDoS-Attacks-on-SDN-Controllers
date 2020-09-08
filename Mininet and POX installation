@@ -1,0 +1,13 @@
+Mininet (network Emulator) and POX: 
+
+```
+
+sudo apt-get install mininet
+sudo mn -c
+sudo apt-get install git
+git clone git://github.com/mininet/mininet
+mininet/util/install.sh -a
+
+```
+
+This will install Mininet along with POX controllers.
